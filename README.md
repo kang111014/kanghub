@@ -8,7 +8,7 @@
 # 自主學習筆記區
 
 # 作業連結區
-*  [作業1](https://github.com/kang111014/kangdatahub/blob/main/HW01)
+*  [作業1](https://github.com/kang111014/kanghub/blob/main/HW01)
 # 專題連結區   
 
 # Markdown 語法說明
