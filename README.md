@@ -9,6 +9,8 @@
 
 # 作業連結區
 *  [作業1](https://github.com/kang111014/kanghub/blob/main/HW01)
+*  [作業2](https://github.com/kang111014/kanghub/blob/main/HW02.ipynb)
+
 # 專題連結區   
 
 # Markdown 語法說明
