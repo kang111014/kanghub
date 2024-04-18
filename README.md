@@ -10,6 +10,7 @@
 # 作業連結區
 *  [作業1](https://github.com/kang111014/kanghub/blob/main/HW01.ipynb)
 *  [作業2](https://github.com/kang111014/kanghub/blob/main/HW02.ipynb)
+*  [作業3](https://github.com/kang111014/kanghub/tree/main/HW03)
 
 # 專題連結區   
 
